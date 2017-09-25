@@ -1,6 +1,6 @@
 # sumJS
 
-#### 数组元素洗牌
+### 数组元素洗牌
 ```js
 let list = [1,2,3];
 console.log(list.sort(function() {
@@ -9,7 +9,7 @@ console.log(list.sort(function() {
 ```
 
 ### Map遍历
-```
+```js
 let map = new Map();
 map.set('aa', 1);
 map.set('bb', 2);
