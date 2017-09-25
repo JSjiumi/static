@@ -9,7 +9,7 @@ console.log(list.sort(function() {
 ```
 
 ### Map遍历
-```js
+```javascript
 let map = new Map();
 map.set('aa', 1);
 map.set('bb', 2);
