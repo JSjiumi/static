@@ -8,8 +8,8 @@ console.log(list.sort(function() {
 )); // [2,1,3]
 ```
 
-#### Map遍历
-```js
+### Map遍历
+```
 let map = new Map();
 map.set('aa', 1);
 map.set('bb', 2);
